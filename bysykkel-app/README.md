@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App]
 - Clone or download the project from https://github.com/code2dipi/frontend-bysykkel-info.git 
 
 
-# Before run the project , it need to have installed Nodejs in your local machine and following dependency listed in package.json  
+# Before run the project , it need to have installed Nodejs in your local machine and following dependencies listed in package.json  
     ["axios": "^0.27.2",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^2.1.3"]
