@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App]
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^2.1.3"]
 
- # Please run backend server(see:  https://github.com/code2dipi/bysykkel-rest-api/blob/master/README.md), when backend server is on live, from the project directory(frontend-bysykkel-info\bysykkel-app),  run:
+ Please run backend server(see:  https://github.com/code2dipi/bysykkel-rest-api/blob/master/README.md), when backend server is on live, from the project directory(frontend-bysykkel-info\bysykkel-app),  run:
 
 
 ### `npm start`
