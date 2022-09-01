@@ -17,7 +17,7 @@ This project was bootstrapped with [Create React App]
 
 Runs the app in the development mode.\
 
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000] to view it in your browser.
 
 In this app ,Two REST Endpoints[http://localhost:8080/ny/available and http://localhost:8080/ny/stations ] has been consumed.
 
