@@ -24,9 +24,11 @@ Open [http://localhost:3000] to view it in your browser.
 In this app backend REST Resource results [http://localhost:8080/ny/results]  has been consumed .
 
 When everything goes right a way , all the real-time data will be displayed on browser:
+
 Stasjon-Id	Navn	           Address	                  Ledige sykkler	Antall tilgjenlige låser
 2350	   Blindern T-Bane	   Apalveien 60	                  0	               25
 2349	   Maritimt Museum	   Bygdøynesveien 37	          0	               21
 2347	   Huk 2	           Strømsborgveien 48	          24	            6
 
-
+----------------------------------------------------------------------------------------------------------------
+Good luck !!!
