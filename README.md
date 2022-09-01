@@ -1,20 +1,16 @@
-
+# frontend-bysykkel-info
 
 This project was bootstrapped with [Create React App]
 
 - Clone or download the project from https://github.com/code2dipi/frontend-bysykkel-info.git 
 
 
-<<<<<<< HEAD
-# Before run the project , Nodejs need to be installed in your local machine and following dependency listed in package.json  
-=======
-# Before run the project , it need to have installed Nodejs in your local machine and following dependencies listed in package.json  
->>>>>>> f280621f26a1f3dab373d69f051ca7e1582be009
+# Before run the project , Nodejs need to be installed in your local machine and following dependencies which is listed in package.json file : 
     ["axios": "^0.27.2",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^2.1.3"]
 
- # Please run backend server(see: https://github.com/code2dipi/bysykkel-rest-api/blob/master/README.md), when backend server is on live, from the project directory(frontend-bysykkel-info\bysykkel-app),  run:
+ Please run backend server(see:  https://github.com/code2dipi/bysykkel-rest-api/blob/master/README.md), when backend server is on live, from the project directory(frontend-bysykkel-info\bysykkel-app),  run:
 
 
 ### `npm start`
